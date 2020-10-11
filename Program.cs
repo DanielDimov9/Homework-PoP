@@ -6,6 +6,7 @@ using System.Timers;
 
 namespace Homework_PoP
 {
+
     class Program
     {
         private static void Main(string[] args)
